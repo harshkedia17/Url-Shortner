@@ -57,16 +57,16 @@ python manage.py runserver
 &nbsp; 
 <br>
 <p align="center">
-  Feed Home
+  Dashboard Page
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
+<img src="https://user-images.githubusercontent.com/83446317/149736838-18f6629e-3e6d-4e57-9225-f7f67dfae29e.png">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
-  Room Conversation Preview
+  Login Form
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
+<img src="https://user-images.githubusercontent.com/83446317/149736852-92e0046f-8df5-4ce8-9fd1-c3705ebb7038.png">  
 </td>
 </table>
 
